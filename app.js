@@ -11,7 +11,7 @@ if (guessNumber < int){
 else if (guessNumber > int){
   console.log("too high");
 }
-else if (guessNumber = int){
+else if (guessNumber == int){
   console.log("Congratualtions!!!");
 }
 
